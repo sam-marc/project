@@ -1,0 +1,6 @@
+apiVerion: v1
+kind: Configmap
+metadata: 
+  name: momgo-config
+data:  
+  mongo-url: mongo service 
